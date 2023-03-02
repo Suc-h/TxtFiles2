@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IzXqHYYh931CpCcY/xw7z5y0EidzS8q6D6ycIKTDKfsycIcBBrCEwGn/eOSMjvDDmQw2bAoYecs9ZhZ+ppZJkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fokus\\source\\repos\\knihy\\knihy\\knihy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fokus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\fokus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.5\\microsoft.netcore.app.ref.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
